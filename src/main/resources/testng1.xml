@@ -1,0 +1,13 @@
+<suite name="Suite1">
+
+    <test name="Mathematics">
+        <classes>
+            <class name="MathematicsTest">
+                <methods>
+                    <include name="addCheck" />
+                  </methods>
+            </class>
+        </classes>
+    </test>
+
+</suite>

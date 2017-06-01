@@ -1,0 +1,16 @@
+<suite name="Suite2">
+
+    <test name="MethodOrder">
+        <classes>
+            <class name="MethodOrderTest">
+                <methods>
+                    <include name="multiply" />
+                    <include name="divide" />
+                    <include name="add" />
+                    <include name="deduct" />
+                  </methods>
+            </class>
+        </classes>
+    </test>
+
+</suite>
